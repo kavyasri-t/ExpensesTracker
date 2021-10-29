@@ -1,0 +1,19 @@
+.expense-filter {
+  margin: 10px;
+}
+
+.filter-dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.filter-dropdown p {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.filter-dropdown select {
+  padding: 5px 10px;
+  border-radius: 8%;
+  font-size: 18px;
+}
